@@ -1,0 +1,47 @@
+body{
+    font-family: 'Windlass', sans-serif;
+    background-color: #690000;
+    background: linear-gradient(to buttom, #1a000d, #33001a);
+    color:#ffffff;
+    text-align: center;
+    padding: 30px;
+}
+.thearter{
+    border: 10px double #8b0000;
+    padding: 20px;
+    box-shadow: 0 0 40px #ff0066;
+    background-color:  #0d001a;
+    max-width: 800px;
+    margin: auto;
+}
+.title {
+    font-size: 3em;
+    margin-bottom: 5px solid #8b0000;
+    text-shadow: 0 0 10px #000000;
+}
+video{
+    width: 60%;
+    border: 5px solid #8b0000;
+    box-shadow: 0 0 30px #ffffff;
+    border-radius: 10px;
+    max-width: 100%
+}
+.button{
+    margin-top: 20px;
+}
+button{
+    padding: 10px 20px;
+    margin: 30px;
+    font-size: 1em;
+    background-color: #660033;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0 0 10px #ff3399;
+    transition: backgroend 0.3s;
+}
+button:hover{
+    background-color: #99004d;
+}
+
+  }
